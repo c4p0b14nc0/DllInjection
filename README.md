@@ -6,4 +6,9 @@ La DLL iniettata è PopCalc.dll che al caricamento lancia la calcolatrice.
 NB. Se compilate il programma a 32 bit è necessario lanciare Notepad a 32 bit che si trova nella cartella C:\Windows\SysWow64\
 Se siete interessati a vedere come costruire la DLL popCalc potete trovare il progetto su https://github.com/AxelPersinger/PopCalc
 Vi consiglo però di utilizzare la mia DLL in quanto ho eseguito alcune piccole modifiche.
+I file presenti sono:
+main.cpp - il codice sorgente
+main.exe - eseguibile a 32 bit
+popCalc.dll
+
 
